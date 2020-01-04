@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Sinung Hidayat",
+      "Age": 25,
+      "address": "Sunter Jaya ,Jakarta Utara ",
+      "hobbies": [
+        "Ngoding",
+        "Browsing",
+        "Olahraga",
+        "Adventure"
+      ],
+      "is_married": false,
+      "list_school": [
+        {
+          "highSchool": "SMAN Budi Utomo Jombang,2009-20012",
+          "university": "Universtas Bsi,2014-2019"
+        }
+      ],
+      "skill": [
+        {
+          "HTML5": "70 %",
+          "CSS": "70 %",
+          "Javascript": "70 %",
+          "C++": "50 %"
+        }
+      ]
+    }
+  ]
